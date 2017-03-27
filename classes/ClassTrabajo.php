@@ -8,8 +8,8 @@ class Trabajo {
     }
 
     public function Mostrar($mostrar){
-    	echo $mostrar;
-    	
+    	echo '<h3>'.$mostrar.'</h3>';
+
     	echo '<br>';
     }
 }
