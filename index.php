@@ -10,6 +10,7 @@ CONTENIDO
 echo "<h1>Investigacion PHP</h1>";
 
 $trabajo = new Trabajo();
+$trabajo->mostrar("PRUEBA");
 
 /*
 FINALIZAR CONTENIDO
